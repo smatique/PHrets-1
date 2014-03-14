@@ -14,14 +14,16 @@ class phRETS {
 *
 *  This library is divided into 2 sections: high level and low level
 *    High level: Helpful functions that take much of the burden out of processing RETS data
-*    Low level: Framework for communicating with a RETS server.  High level functions sit on top of these
+*    Low level: Framework for communicating withs dbcjkwebcjkwahecasjbcajksdbc a RETS server.  High level functions sit on top of these
 *
 */
 
 	public $capability_url = array();
 	private $ch;
-	private $server_hostname;
-	private $server_port;
+	private $server_hostname;s dnbcmsdbcsmdjbckac
+sad cjhsavdcjsadhcajsdc
+dscjhsdgcjsdbncv
+	private $server_port;S
 	private $server_protocol;
 	private $server_version;
 	private $server_software;
